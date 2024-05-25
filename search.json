@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Post #1 Welcome\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 25, 2024\n\n\nBartosz Baranowski\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Post #1 Welcome",
@@ -12,12 +19,5 @@
     "title": "About",
     "section": "",
     "text": "Hello there!\nI’m a Data Scientist and Agile Coach currently working at Novartis Biomedical Research with a passion for using AI in my daily work. I take a data-driven approach, focusing on delivering innovative solutions with real-world impact. My expertise includes:\n\nAI & Machine Learning: Deep learning, explainable AI, and building production-ready ML models.\nTeam & Tech Leadership: Fostering team growth and driving digital transformation.\nPharmaceutical Industry: Deep understanding of the drug development pipeline, from research to market.\n\nPreviously, I’ve worked at Roche tackling challenges across the entire drug development process.\n\nOpen Source Advocate\nI believe in the power of collaboration and knowledge sharing. I’m actively involved in the open-source community, contributing to make research tools more accessible and empower scientists worldwide."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Post #1 Welcome\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 25, 2024\n\n\nBartosz Baranowski\n\n\n\n\n\n\nNo matching items"
   }
 ]
