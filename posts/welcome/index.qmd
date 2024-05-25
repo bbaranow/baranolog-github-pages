@@ -1,6 +1,6 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "Welcome"
+author: "Bartosz Baranowski"
 date: "2024-05-22"
 categories: [news]
 ---
