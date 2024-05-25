@@ -2,22 +2,22 @@
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome",
+    "title": "Post #1 Welcome",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Welcome to my personal blog!\n\n\n\ncourtesy to Microsoft Designer\n\n\nI thought it would be useful to start with an AI-generated image so here it is (looks familiar?). In this blog, I’m going to write mostly about the stuff related to AI, computer science, and agile, or… well, everything that I find either useful, interesting, or enjoyable.\nAnd as the late Terry Pratchett wrote in one of his books:\n\nIt doesn’t stop being magic just because you know how it works."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "Hello there!\nI’m a Data Scientist and Agile Coach currently working at Novartis Biomedical Research with a passion for using AI in my daily work. I take a data-driven approach, focusing on delivering innovative solutions with real-world impact. My expertise includes:\n\nAI & Machine Learning: Deep learning, explainable AI, and building production-ready ML models.\nTeam & Tech Leadership: Fostering team growth and driving digital transformation.\nPharmaceutical Industry: Deep understanding of the drug development pipeline, from research to market.\n\nPreviously, I’ve worked at Roche tackling challenges across the entire drug development process.\n\nOpen Source Advocate\nI believe in the power of collaboration and knowledge sharing. I’m actively involved in the open-source community, contributing to make research tools more accessible and empower scientists worldwide."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Blog",
     "section": "",
-    "text": "Welcome\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 22, 2024\n\n\nBartosz Baranowski\n\n\n\n\n\n\nNo matching items"
+    "text": "Post #1 Welcome\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 22, 2024\n\n\nBartosz Baranowski\n\n\n\n\n\n\nNo matching items"
   }
 ]
